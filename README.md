@@ -19,4 +19,10 @@ Narwhal lyft freegan
 
 ##chabranch
 
+<<<<<<< Updated upstream
 ##stashing popping
+=======
+##stashing
+
+##popping video practice
+>>>>>>> Stashed changes
